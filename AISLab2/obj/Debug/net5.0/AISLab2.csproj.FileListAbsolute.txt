@@ -1,0 +1,16 @@
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.exe
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.deps.json
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.runtimeconfig.json
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.runtimeconfig.dev.json
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.dll
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\ref\AISLab2.dll
+D:\ДЗ\AISLab\AISLab2\bin\Debug\net5.0\AISLab2.pdb
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.csproj.AssemblyReference.cache
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.AssemblyInfoInputs.cache
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.AssemblyInfo.cs
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.csproj.CoreCompileInputs.cache
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.dll
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\ref\AISLab2.dll
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.pdb
+D:\ДЗ\AISLab\AISLab2\obj\Debug\net5.0\AISLab2.genruntimeconfig.cache

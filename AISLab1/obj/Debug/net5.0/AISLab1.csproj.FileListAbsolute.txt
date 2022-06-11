@@ -1,0 +1,5 @@
+D:\ДЗ\AISLab\AISLab1\obj\Debug\net5.0\AISLab1.csproj.AssemblyReference.cache
+D:\ДЗ\AISLab\AISLab1\obj\Debug\net5.0\AISLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\AISLab\AISLab1\obj\Debug\net5.0\AISLab1.AssemblyInfoInputs.cache
+D:\ДЗ\AISLab\AISLab1\obj\Debug\net5.0\AISLab1.AssemblyInfo.cs
+D:\ДЗ\AISLab\AISLab1\obj\Debug\net5.0\AISLab1.csproj.CoreCompileInputs.cache
