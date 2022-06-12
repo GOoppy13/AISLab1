@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "AISLab2/1.0.0": {
+      "AISLab1/1.0.0": {
         "runtime": {
-          "AISLab2.dll": {}
+          "AISLab1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AISLab2/1.0.0": {
+    "AISLab1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
